@@ -1,0 +1,15 @@
+{ "name" : "node-interstate"
+, "description" : "A simple node.js wrapper for the v2 Interstate API"
+, "tags" : ["interstate","api","wrapper","project management"]
+, "version" : "0.0.1"
+, "author" : "Simon Fletcher <simon@interstateapp.com>"
+, "main" : "./lib/interstate"
+, "directories": { "lib": "./lib/interstate" }
+, "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/Interstate/node-interstate.git"
+  }
+, "bugs" :
+  { "web" : "https://github.com/Interstate/node-interstate/issues" }
+, "engines" : ["node >=0.4.0"]
+}
