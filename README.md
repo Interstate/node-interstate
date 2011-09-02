@@ -3,6 +3,14 @@ Interstate node.js SDK
 
 This is the new base SDK for working with the [Interstate API v2](http://developers.interstateapp.com/v2) in node.js.
 
+## How to install
+
+You can install the library either by using npm or by downloading the source. The library is listed as "interstate" on npm. To install, just run the following (in your terminal) in the directory of your node app.
+
+```
+$ npm install interstate
+```
+
 ## Getting Started
 To get started with the new sdk, require interstate.js in your app and initialize an instance of the Interstate object, with your OAuth app's settings.
 
